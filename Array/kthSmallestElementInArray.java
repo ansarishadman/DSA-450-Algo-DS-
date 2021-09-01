@@ -2,7 +2,7 @@ import java.util.Random;
 
 // kth Max And Min Element In Array
 // kthSmallest -> randomPartition -> partition -> recursive <-|
-public class KthSmallestElementInArray {
+public class kthSmallestElementInArray {
     public static void main(String[] args) {
         int arr[] = { 12, 36, 4, 56, 23, 16};
         int k = 2;
