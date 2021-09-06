@@ -15,3 +15,4 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 9. Minimise the maximum difference between heights [V.IMP] | Time Complexity => O(nlogn)
 10. Minimum no. of Jumps to reach end of an array | Time Complexity => O(n) | Auxiliary Space => O(1)
 11. find duplicate in an array of N+1 Integers | Time Complexity => O(n) | Auxiliary Space => O(1)
+12. Merge 2 sorted arrays without using Extra space. | Time Complexity => O((n+m)\*log(n+m)) | Auxiliary Space => O(1)
