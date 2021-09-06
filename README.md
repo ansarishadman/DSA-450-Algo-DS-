@@ -14,3 +14,4 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 8. find Largest sum contiguous Subarray [V. IMP] | Kadane's Algo [V.V.V.V.V IMP] | Time Complexity => O(n)
 9. Minimise the maximum difference between heights [V.IMP] | Time Complexity => O(nlogn)
 10. Minimum no. of Jumps to reach end of an array | Time Complexity => O(n) | Auxiliary Space => O(1)
+11. find duplicate in an array of N+1 Integers | Time Complexity => O(n) | Auxiliary Space => O(1)
