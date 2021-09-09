@@ -17,3 +17,4 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 11. find duplicate in an array of N+1 Integers | Time Complexity => O(n) | Auxiliary Space => O(1)
 12. Merge 2 sorted arrays without using Extra space. | Time Complexity => O((n+m)\*log(n+m)) | Auxiliary Space => O(1)
 13. Merge Intervals | Time Complexity => O(nlogn)
+14. Next Interval | Time Complexity => O(n)
