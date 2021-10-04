@@ -19,3 +19,4 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 13. Merge Intervals | Time Complexity => O(nlogn)
 14. Next Interval | Time Complexity => O(n)
 15. Count Inversions | Time Complexity => O(nlogn)
+16. Best Time to Buy and Sell | Time Complexity => O(n)
