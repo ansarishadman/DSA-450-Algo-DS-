@@ -15,6 +15,7 @@ public class TwoSum {
             if (map.containsKey(target - nums[i])) {
                 pairValue[1] = i;
                 pairValue[0] = map.get(target - nums[i]);
+                return pairValue;
             }
             map.put(nums[i], i);
         }
