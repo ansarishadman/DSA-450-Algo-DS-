@@ -20,4 +20,4 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 14. Next Interval | Time Complexity => O(n)
 15. Count Inversions | Time Complexity => O(nlogn)
 16. Best Time to Buy and Sell | Time Complexity => O(n)
-17. Two Sum Problem | Time Complexity => O(n)
+17. Two Sum Problem | Find all pairs on integer array whose sum is equal to given number | Time Complexity => O(n)
