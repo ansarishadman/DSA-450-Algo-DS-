@@ -23,3 +23,4 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 17. Two Sum Problem | Find all pairs on integer array whose sum is equal to given number | Time Complexity => O(n)
 18. Find common elements In 3 sorted arrays | Time Complexity => O(n1 + n2 + n3)
 19. Rearrange the array in alternating positive and negative items with O(1) extra space | Time Complexity => O(nlogn) | Aux Space => O(1)
+20. Find if there is any subarray with sum equal to 0 | Time Complexity => O(n)
