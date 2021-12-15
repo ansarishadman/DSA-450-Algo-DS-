@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class CheckIfStringIsShuffleOfTwoStrings {
     public static void main(String[] args) {
-        String s1 = "Shda";
+        String s1 = "Shad";
         String s2 = "mna";
         String s3 = "Shadman";
 
