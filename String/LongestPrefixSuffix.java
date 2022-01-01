@@ -6,7 +6,6 @@ public class LongestPrefixSuffix {
     }
 
     static int lps(String s) {
-        // code here
         int i = 0, j = 1, n = s.length();
         int[] lps = new int[n];
         lps[0] = 0;
