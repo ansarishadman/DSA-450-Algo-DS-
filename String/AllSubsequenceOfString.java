@@ -12,8 +12,9 @@ public class AllSubsequenceOfString {
             String ans[] = {""};
             return ans;
         }
-
+//        System.out.println(str.substring(1));
         String smallAns[] = findSubsequences(str.substring(1));
+//        System.out.println(Arrays.toString(smallAns));
         String ans[] = new String[2 * smallAns.length];
 
         int k = 0;
@@ -23,6 +24,7 @@ public class AllSubsequenceOfString {
         }
 
         for (int j = 0; j < smallAns.length; j++) {
+            System.out.println(smallAns[j]);
             ans[k] = str.charAt(0) + smallAns[j];
             k++;
         }
