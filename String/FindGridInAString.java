@@ -21,10 +21,8 @@ public class FindGridInAString {
             for (int i = 0; i < grid.length; i++) {
                 for (int j = 0; j < grid[0].length; j++) {
                     if (grid[i][j] == word.charAt(0)) {
-                        // System.out.println("see me " + i +" "+ j);
                         hm.put(i, list);
                         hm.get(i).add(j);
-                        // System.out.println(Arrays.asList(hm));
                     }
                 }
             }
