@@ -4,6 +4,7 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 
 # List
 
+# Array
 1. Reverse the array | Time Complexity => O(n)
 2. Find the maximum and minimum element in an array | Time Complexity => O(n)
 3. Find the "Kth" max and min element of an array | Time Complexity => O(n)
@@ -24,3 +25,20 @@ This Repository contains solutions to 450 Data Structures and Algorithms!
 18. Find common elements In 3 sorted arrays | Time Complexity => O(n1 + n2 + n3)
 19. Rearrange the array in alternating positive and negative items with O(1) extra space | Time Complexity => O(nlogn) | Aux Space => O(1)
 20. Find if there is any subarray with sum equal to 0 | Time Complexity => O(n)
+
+# Strings
+1. Reverse a string
+2. Check whether a string is Palindrome on not
+3. Find duplicate characters in a String
+4. Write a code to check whether one string is rotation of another
+5. WAP to check whether a string is valid shuffle of two strings or not
+6. Count and Say problem
+7. WAP to find the longest Palindrome in a string (Longest Palindromic substring)
+8. Find longest recurring subsequence in a string
+9. Print all subsequences of a String
+
+# Matrix
+1. Search an element in a Matrix (Search in 2D Matrix)
+
+# Searching and Sorting
+1. Search in a rotated sorted array
