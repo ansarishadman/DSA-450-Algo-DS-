@@ -1,5 +1,5 @@
 import java.util.*;
-public class PalindromesOfAString {
+public class PermutationsOfAString {
 
     public static void main(String[] args) {
         String S = "ABC";
